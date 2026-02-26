@@ -143,18 +143,7 @@ Nếu thấy hữu ích, bạn có thể mua cho tôi một cốc cà phê nhé!
 <a href="https://www.buymeacoffee.com/longavtl" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
 </a>
-<a href="https://ko-fi.com/longavtl" target="_blank">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" height="40" />
-</a>
 </p>
-
-<details>
-<summary>💡 Cách thiết lập donate</summary>
-
-1. **Buy Me a Coffee**: Đăng ký tại [buymeacoffee.com](https://www.buymeacoffee.com) → tạo trang của bạn → thay `longavtl` trong link bằng username của bạn
-2. **Ko-fi**: Đăng ký tại [ko-fi.com](https://ko-fi.com) → tạo tài khoản → thay `longavtl` trong link bằng username của bạn
-
-</details>
 
 ---
 

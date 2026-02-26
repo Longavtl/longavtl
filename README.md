@@ -12,9 +12,9 @@
 
 ---
 
-## 🎯 Mục tiêu nghề nghiệp
-
-Sử dụng những gì đã biết để tạo ra ứng dụng tốt nhất đến với người dùng. Nâng cao năng lực chuyên môn, tích lũy kinh nghiệm và phát triển lên vai trò Leader.
+<p align="center">
+  Flutter & Kotlin developer với hơn 2 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android.
+</p>
 
 ---
 

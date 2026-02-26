@@ -1,20 +1,22 @@
-<h1 align="center">Hi 👋 I'm Đỗ Tuấn Long</h1>
+<div align="center">
 
-<h3 align="center">Flutter Developer | Mobile Engineer</h3>
+### 👋 Xin chào, I'm Đỗ Tuấn Long
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&lines=Flutter+Developer;Kotlin+Android;Clean+Architecture" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=5C7CFA&center=true&vCenter=true&width=480&lines=Flutter+Developer;Kotlin+%7C+Android;Mobile+Engineer" alt="Typing SVG" />
 
-<p align="center">
-📍 Nam Từ Liêm, Hà Nội
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/📍_Nam_Từ_Liêm,_Hà_Nội-2d2d2d?style=flat-square" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 
-<p align="center">
-  Flutter & Kotlin developer với hơn 2 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android.
-</p>
+<br/>
+<br/>
+
+*Flutter & Kotlin developer với hơn 2 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android*
+
+</div>
 
 ---
 

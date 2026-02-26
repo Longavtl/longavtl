@@ -140,7 +140,7 @@ Nếu thấy hữu ích, bạn có thể mua cho tôi một cốc cà phê nhé!
 </p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/longavtl" target="_blank">
+<a href="https://www.buymeacoffee.com/longavtlss" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
 </a>
 </p>

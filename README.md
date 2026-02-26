@@ -73,13 +73,61 @@
 
 ---
 
-## 📱 Ứng dụng đã phát hành
+## 🛠️ Đã tham gia thiết kế & phát triển
 
-- [AMG Teacher](https://apps.apple.com/us/app/amgteacher/id6751871439) • [Google Play](https://play.google.com/store/apps/details?id=com.amg_management_flutter)
-- [Contrast 24h](https://apps.apple.com/vn/app/contrast-24h/id6748829751) • [Google Play](https://play.google.com/store/apps/details?id=com.cafe.contrast24h)
-- [Green Light](https://apps.apple.com/vn/app/green-light/id6458737962) • [Google Play](https://play.google.com/store/apps/details?id=com.greenlightvietnam.greenlight)
-- [Ứng dụng học tiếng Anh](https://play.google.com/store/apps/details?id=com.longavtl.vocabulary)
-- [Viettel MyLife](https://play.google.com/store/apps/details?id=com.vietteltelecom.mylife)
+<table>
+<tr>
+<td width="50%">
+
+#### 📚 AMG Teacher
+*Quản lý học sinh mầm non • Chat 1:1 • AI*
+
+[![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/amgteacher/id6751871439)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.amg_management_flutter)
+
+</td>
+<td width="50%">
+
+#### ☕ Contrast 24h
+*Tin tức • Đặt hàng • Thanh toán Napas*
+
+[![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/vn/app/contrast-24h/id6748829751)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cafe.contrast24h)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌲 Green Light
+*Đầu tư trồng rừng • Thống kê • Phân quyền*
+
+[![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/vn/app/green-light/id6458737962)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.greenlightvietnam.greenlight)
+
+</td>
+<td width="50%">
+
+#### 📖 Ứng dụng học tiếng Anh
+*3000+ từ vựng • Ngữ pháp • Quiz*
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.longavtl.vocabulary)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 📱 Viettel MyLife
+*Quản lý tập tin • Thanh toán • Thông báo*
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vietteltelecom.mylife)
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ---
 

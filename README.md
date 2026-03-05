@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
 
 <br/>
 <br/>
@@ -69,6 +68,7 @@
 | Dự án | Mô tả | Công nghệ |
 |-------|-------|-----------|
 | **AMG Teacher** | Ứng dụng quản lý học sinh mầm non cho giáo viên, chat 1:1, tích hợp AI | Flutter, GetX, Firebase, Clean Architecture |
+| **VLO** | Ứng dụng nhận dạng cuộc gọi, chặn cuộc gọi spam, tra cứu số điện thoại & tài khoản ngân hàng | Swift, iOS |
 | **Contrast 24h** | App tin tức, đặt hàng, thanh toán Napas, Google Maps | Flutter, Bloc, Firebase |
 | **Green Light** | Ứng dụng đầu tư trồng rừng, phân quyền, thống kê | Flutter, GetX, Google Maps, Firebase |
 | **Viettel MyLife** | Quản lý tập tin, thanh toán, gói cước, thông báo | Flutter, Provider, Firebase |
@@ -91,6 +91,16 @@
 </td>
 <td width="50%">
 
+#### 📞 VLO: Phone Lookup & Block Spam
+*Nhận dạng cuộc gọi • Chặn spam • Tra cứu số điện thoại*
+
+[![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/vn/app/vlo-phone-lookup-block-spam/id6751707032?l=vi)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 #### ☕ Contrast 24h
 *Tin tức • Đặt hàng • Thanh toán Napas*
 
@@ -98,8 +108,6 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cafe.contrast24h)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 🌲 Green Light
@@ -109,6 +117,8 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.greenlightvietnam.greenlight)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 📖 Ứng dụng học tiếng Anh
@@ -117,8 +127,6 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.longavtl.vocabulary)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 📱 Viettel MyLife
@@ -126,8 +134,6 @@
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vietteltelecom.mylife)
 
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>

@@ -47,7 +47,7 @@
 
 **Tools & Others:**
 - Git/GitHub/GitLab, CI/CD
-- Google Maps, WebSocket, AdMob, MinIO
+- Google Maps, WebSocket, AdMob, MinIO, agora, zoom sdk,third-party SDK...
 - Clean Architecture, MVVM
 
 <p align="center">

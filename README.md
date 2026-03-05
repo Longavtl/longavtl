@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-*Flutter & Kotlin developer với hơn 2 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android*
+*Flutter & Kotlin developer với hơn 3 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android*
 
 </div>
 

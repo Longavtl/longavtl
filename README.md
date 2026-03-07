@@ -170,6 +170,14 @@ Nếu thấy hữu ích, bạn có thể mua cho tôi một cốc cà phê nhé!
 
 ---
 
+## 🎵 Nhạc hay nghe
+
+<p align="center">
+<a href="https://youtu.be/ZvtpA5yL6kY" target="_blank">▶️ Nghe nhạc trên YouTube</a>
+</p>
+
+---
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=longavtl&color=blue" />
 </p>

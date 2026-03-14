@@ -123,10 +123,13 @@
 
 #### 📖 Ứng dụng học tiếng Anh
 *3000+ từ vựng • Ngữ pháp • Quiz*
+
 [![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/safekey/id6760266696)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.longavtl.vocabulary)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 📱 Viettel MyLife

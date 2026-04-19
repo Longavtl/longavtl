@@ -1,6 +1,11 @@
+<p align="right">
+  <a href="#-hello-im-đỗ-tuấn-long"><img src="https://img.shields.io/badge/EN-1f6feb?style=for-the-badge" alt="English" /></a>
+  <a href="#-xin-chào-mình-là-đỗ-tuấn-long"><img src="https://img.shields.io/badge/VI-6f42c1?style=for-the-badge" alt="Tiếng Việt" /></a>
+</p>
+
 <div align="center">
 
-### 👋 Xin chào, I'm Đỗ Tuấn Long
+### 👋 Hello, I'm Đỗ Tuấn Long
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=5C7CFA&center=true&vCenter=true&width=480&lines=Flutter+Developer;Kotlin+%7C+Android;Mobile+Engineer" alt="Typing SVG" />
 
@@ -14,7 +19,13 @@
 <br/>
 <br/>
 
-*Flutter & Kotlin developer với hơn 3 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android*
+*Flutter & Kotlin developer with 3+ years of experience building mobile apps on iOS and Android*
+
+<p>
+  <a href="https://github.com/Longavtl"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:longavtl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@longkhongfive"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -47,7 +58,7 @@
 
 **Tools & Others:**
 - Git/GitHub/GitLab, CI/CD
-- Google Maps, WebSocket, AdMob, MinIO, agora, zoom sdk,third-party SDK...
+- Google Maps, WebSocket, AdMob, MinIO, Agora, Zoom SDK, third-party SDKs
 - Clean Architecture, MVVM
 
 <p align="center">
@@ -60,6 +71,12 @@
 
 **Kỹ thuật Phần mềm** (2019 - 2023)  
 Đại học Công nghiệp Hà Nội – Tốt nghiệp loại Khá
+
+---
+
+## 🇻🇳 Xin chào, mình là Đỗ Tuấn Long
+
+*Flutter & Kotlin developer với hơn 3 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android*
 
 ---
 
@@ -124,12 +141,9 @@
 #### 📖 Ứng dụng học tiếng Anh
 *3000+ từ vựng • Ngữ pháp • Quiz*
 
-[![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/safekey/id6760266696)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.longavtl.vocabulary)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 📱 Viettel MyLife
@@ -177,6 +191,10 @@ Nếu thấy hữu ích, bạn có thể mua cho tôi một cốc cà phê nhé!
 
 <p align="center">
 <a href="https://youtu.be/ZvtpA5yL6kY" target="_blank">▶️ Nghe nhạc trên YouTube</a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/@longkhongfive" target="_blank">🎬 Kênh YouTube của tôi: @longkhongfive</a>
 </p>
 
 ---

@@ -1,6 +1,6 @@
 <p align="right">
   <a href="#-hello-im-đỗ-tuấn-long"><img src="https://img.shields.io/badge/EN-1f6feb?style=for-the-badge" alt="English" /></a>
-  <a href="#-xin-chào-mình-là-đỗ-tuấn-long"><img src="https://img.shields.io/badge/VI-6f42c1?style=for-the-badge" alt="Tiếng Việt" /></a>
+  <a href="#-tiếng-việt"><img src="https://img.shields.io/badge/VI-6f42c1?style=for-the-badge" alt="Tiếng Việt" /></a>
 </p>
 
 <div align="center">
@@ -67,40 +67,34 @@
 
 ---
 
-## 🎓 Học vấn
+## 🎓 Education
 
-**Kỹ thuật Phần mềm** (2019 - 2023)  
-Đại học Công nghiệp Hà Nội – Tốt nghiệp loại Khá
-
----
-
-## 🇻🇳 Xin chào, mình là Đỗ Tuấn Long
-
-*Flutter & Kotlin developer với hơn 3 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android*
+**Software Engineering** (2019 - 2023)  
+Hanoi University of Industry - Graduated with Good classification
 
 ---
 
-## 🚀 Dự án nổi bật
+## 🚀 Featured Projects
 
-| Dự án | Mô tả | Công nghệ |
+| Project | Description | Technologies |
 |-------|-------|-----------|
-| **AMG Teacher** | Ứng dụng quản lý học sinh mầm non cho giáo viên, chat 1:1, tích hợp AI | Flutter, GetX, Firebase, Clean Architecture |
-| **VLO** | Ứng dụng nhận dạng cuộc gọi, chặn cuộc gọi spam, tra cứu số điện thoại & tài khoản ngân hàng | Swift, iOS |
-| **Contrast 24h** | App tin tức, đặt hàng, thanh toán Napas, Google Maps | Flutter, Bloc, Firebase |
-| **Green Light** | Ứng dụng đầu tư trồng rừng, phân quyền, thống kê | Flutter, GetX, Google Maps, Firebase |
-| **Viettel MyLife** | Quản lý tập tin, thanh toán, gói cước, thông báo | Flutter, Provider, Firebase |
-| **Ứng dụng học tiếng Anh** | 3000+ từ vựng, ngữ pháp, quiz, AdMob | Flutter, BLoC, MVVM, Firebase |
+| **AMG Teacher** | Preschool management app for teachers, 1:1 chat, AI integration | Flutter, GetX, Firebase, Clean Architecture |
+| **VLO** | Caller identification and spam call blocking app with phone and bank account lookup | Swift, iOS |
+| **Contrast 24h** | News, ordering, Napas payments, Google Maps | Flutter, Bloc, Firebase |
+| **Green Light** | Forest investment app with role permissions and analytics | Flutter, GetX, Google Maps, Firebase |
+| **Viettel MyLife** | File management, payments, telecom packages, notifications | Flutter, Provider, Firebase |
+| **English Learning App** | 3000+ vocabulary, grammar, quizzes, AdMob | Flutter, BLoC, MVVM, Firebase |
 
 ---
 
-## 🛠️ Đã tham gia thiết kế & phát triển
+## 🛠️ Designed & Developed
 
 <table>
 <tr>
 <td width="50%">
 
 #### 📚 AMG Teacher
-*Quản lý học sinh mầm non • Chat 1:1 • AI*
+*Preschool management • 1:1 chat • AI*
 
 [![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/amgteacher/id6751871439)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.amg_management_flutter)
@@ -109,7 +103,7 @@
 <td width="50%">
 
 #### 📞 VLO: Phone Lookup & Block Spam
-*Nhận dạng cuộc gọi • Chặn spam • Tra cứu số điện thoại*
+*Caller ID • Spam blocking • Phone lookup*
 
 [![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/vn/app/vlo-phone-lookup-block-spam/id6751707032?l=vi)
 
@@ -119,7 +113,7 @@
 <td width="50%">
 
 #### ☕ Contrast 24h
-*Tin tức • Đặt hàng • Thanh toán Napas*
+*News • Ordering • Napas payments*
 
 [![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/vn/app/contrast-24h/id6748829751)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.cafe.contrast24h)
@@ -128,7 +122,7 @@
 <td width="50%">
 
 #### 🌲 Green Light
-*Đầu tư trồng rừng • Thống kê • Phân quyền*
+*Forest investment • Analytics • Role permissions*
 
 [![App Store](https://img.shields.io/badge/App_Store-000?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/vn/app/green-light/id6458737962)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.greenlightvietnam.greenlight)
@@ -138,8 +132,8 @@
 <tr>
 <td width="50%">
 
-#### 📖 Ứng dụng học tiếng Anh
-*3000+ từ vựng • Ngữ pháp • Quiz*
+#### 📖 English Learning App
+*3000+ vocabulary • Grammar • Quiz*
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.longavtl.vocabulary)
 
@@ -147,7 +141,7 @@
 <td width="50%">
 
 #### 📱 Viettel MyLife
-*Quản lý tập tin • Thanh toán • Thông báo*
+*File management • Payments • Notifications*
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.vietteltelecom.mylife)
 
@@ -157,10 +151,10 @@
 
 ---
 
-## ☕ Ủng hộ tôi
+## ☕ Support Me
 
 <p align="center">
-Nếu thấy hữu ích, bạn có thể mua cho tôi một cốc cà phê nhé! 
+If you find this useful, you can buy me a coffee.
 </p>
 
 <p align="center">
@@ -171,7 +165,7 @@ Nếu thấy hữu ích, bạn có thể mua cho tôi một cốc cà phê nhé!
 
 ---
 
-## 📬 Liên hệ
+## 📬 Contact
 
 <p align="center">
 <a href="mailto:longavtl@gmail.com">
@@ -187,17 +181,32 @@ Nếu thấy hữu ích, bạn có thể mua cho tôi một cốc cà phê nhé!
 
 ---
 
-## 🎵 Nhạc hay nghe
+## 🎵 Favorite Music
 
 <p align="center">
-<a href="https://youtu.be/ZvtpA5yL6kY" target="_blank">▶️ Nghe nhạc trên YouTube</a>
+<a href="https://youtu.be/ZvtpA5yL6kY" target="_blank">▶️ Listen on YouTube</a>
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/@longkhongfive" target="_blank">🎬 Kênh YouTube của tôi: @longkhongfive</a>
+<a href="https://www.youtube.com/@longkhongfive" target="_blank">🎬 My YouTube Channel: @longkhongfive</a>
 </p>
 
 ---
+
+## 🇻🇳 Tiếng Việt
+
+- Bản mặc định phía trên là tiếng Anh.
+- Bấm nút `VI` góc phải trên để nhảy đến đây.
+
+### Giới thiệu nhanh
+
+Flutter & Kotlin developer với hơn 3 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android.
+
+### Liên kết nhanh
+
+- GitHub: https://github.com/Longavtl
+- YouTube: https://www.youtube.com/@longkhongfive
+- Email: longavtl@gmail.com
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=longavtl&color=blue" />

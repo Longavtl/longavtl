@@ -1,6 +1,5 @@
 <p align="right">
   <a href="#-hello-im-đỗ-tuấn-long"><img src="https://img.shields.io/badge/EN-1f6feb?style=for-the-badge" alt="English" /></a>
-  <a href="#-tiếng-việt"><img src="https://img.shields.io/badge/VI-6f42c1?style=for-the-badge" alt="Tiếng Việt" /></a>
 </p>
 
 <div align="center">
@@ -192,21 +191,6 @@ If you find this useful, you can buy me a coffee.
 </p>
 
 ---
-
-## 🇻🇳 Tiếng Việt
-
-- Bản mặc định phía trên là tiếng Anh.
-- Bấm nút `VI` góc phải trên để nhảy đến đây.
-
-### Giới thiệu nhanh
-
-Flutter & Kotlin developer với hơn 3 năm kinh nghiệm xây dựng ứng dụng mobile trên iOS và Android.
-
-### Liên kết nhanh
-
-- GitHub: https://github.com/Longavtl
-- YouTube: https://www.youtube.com/@longkhongfive
-- Email: longavtl@gmail.com
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=longavtl&color=blue" />
